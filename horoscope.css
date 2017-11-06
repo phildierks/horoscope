@@ -1,35 +1,71 @@
 button {
     width: 200px;
     font-size: 20px;
+    font-family: Comic Sans MS;
 
     color: #65cfe6;
 }
 #name {
     color: #65cfe6;
     font-size: 20px;
+    font-family: Comic Sans MS;
 
 }
 
 #days {
     color: #65cfe6;
     font-size: 20px;
+    font-family: Comic Sans MS;
+
+}
+#birthday{
+    color: #e6e444;
+    font-size: 30px;
+    font-family: Comic Sans MS;
 }
 #month {
     color: #65cfe6;
     font-size: 20px;
+    font-family: Comic Sans MS;
+}
+#year{
+    color: #65cfe6;
+    font-size: 20px;
+    font-family: Comic Sans MS;
+
 }
 p {
     color: #65cfe6;
     font-size: 25px;
+    font-family: Comic Sans MS;
+
 }
 
 body {
     background-color: #4564e6;
 }
 #title {
+    font-family: Comic Sans MS;
     font-size: 50px;
 }
 #horoscope {
-    font-size:30px;
-    color: #65cfe6;
+    font-family: Comic Sans MS;
+    font-size: 30px;
+    color: #e6e444;
+}
+#zodiac{
+    font-family: Comic Sans MS;
+    font-size: 30px;
+    color: #e6e444;
+}
+#horoscopetext{
+    font-family: Comic Sans MS;
+    font-size: 30px;
+    color: #e6e444;
+
+}
+image.resize{
+    width:50px;
+    height: 50px;
+
 }
